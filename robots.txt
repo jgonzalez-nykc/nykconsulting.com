@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nykconsulting.com/sitemap.xml
